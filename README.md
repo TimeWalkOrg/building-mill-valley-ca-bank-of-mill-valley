@@ -25,7 +25,7 @@ it moved to #173 Throckmorton. The bank then expanded into the space." Source: [
 - Model completed: May 2018
 - Modeled in SketchUp
 
-![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-bank-of-mill-valley/blob/master/sketchup_image.JPG)
+![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-bank-of-mill-valley/blob/master/sketchup_image.jpg)
 ![Early 1900s photo](https://github.com/TimeWalkOrg/building-mill-valley-ca-bank-of-mill-valley/blob/master/mvu1067.jpg)
 
 ### Online references:
