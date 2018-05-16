@@ -1,28 +1,32 @@
 # The Bank of Mill Valley
-[address tbd], Mill Valley, CA 94941
+60 Thockmorton Ave., Mill Valley, CA 94941
 
 ## Building History
-The Throckmorton was built in 1915 (originally called the “Hub Theatre”) for showing silent films. It closed in 1929 with sound films having been invented and played at the newly opened Sequoia Theater. In 1952, it was bought by The Odd Fellows Temple, and in 1976, it became a movie theater again. This is where the first of the Mill Valley Film Festivals began. As of 2017, it is used as a theater for live performances.
+The Bank of Mill Valley (now Bank of America) was built in 1911 and was the first architecturally significant building of public nature to be built in Mill Valley.  Originally, the bank had two entrances, one facing Throckmorton and one facing Corte Madera Ave.
 
-"This building was called the Hub Theatre when it was built in 1915 as a movie theater showing silent films. Musical accompaniment was in the capable hands of Hattie Thompson at an electrically powered organ. Admission to a Saturday Matinee cost 5 cents. The showing included a Wild West Serial." Source: [Mill Valley Historical Society Vignette](https://www.mvhistory.org/vignette-142-throckmorton/)
+"This building was built by Harvey Klyce in 1911. It was the first masonry
+building in Mill Valley. The Bank of Mill Valley moved here from its previous
+location at Throckmorton and Madrona. In 1926 the Bank of Mill Valley was
+acquired by the Bank of Italy founded by Amadeo Peter Giannini in 1904. In
+1930, he changed the bank’s name to the Bank of America National Trust and
+Savings Association (BofA NTSA).
 
-- Built: 1915
+The Pacific Telephone exchange initially occupied the west part of the building
+until 1948 when it moved to its new building on the corner of East Blithedale
+and Walnut. Dimitroff’s picture frame shop was the occupant until 1960 when
+it moved to #173 Throckmorton. The bank then expanded into the space." Source: [Mill Valley Historical Society](https://www.mvhistory.org/wp-content/uploads/2012/08/plugin-hist-walk-guidebook-2007.pdf)
+
+- Built: 1911
 - Replaced: this building was remodeled but never replaced
-- Architect: tbd
+- Architect: Harvey Klyce
 
 ## SketchUp Model
 - Model Creator: Nathan Schwartzman
 - Model completed: May 2018
-- Modeled in SketchUp 2017
+- Modeled in SketchUp
 
 ![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theatre/blob/master/hub-theatre-1920.jpg)
-![1920 photo of Hub Theatre](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theater/blob/master/hubtheatre-front.jpg)
-
+![1918 photo - Bank of Mill Valley in background on right of image](http://content.cdlib.org/ark:/13030/kt938nd5m6/?docId=kt938nd5m6&layout=printable-details)
 
 ### Online references:
-- [Mill Valley Historical Society Vignette](https://www.mvhistory.org/vignette-142-throckmorton/)
-- [Throckmorton Theatre website](https://throckmortontheatre.org/)
-- [Mill Valley Historical Review, Spring 1984](http://www.millvalleylibrary.net/historyroom/collections/archive/files/mvhs1984spring-reduce_910d348bce.pdf)
-
-## TimeWalk Images
-![TimeWalk Unity Model](tbd)
+- [Mill Valley Historical Society](https://www.mvhistory.org/wp-content/uploads/2012/08/plugin-hist-walk-guidebook-2007.pdf)
