@@ -25,9 +25,9 @@ it moved to #173 Throckmorton. The bank then expanded into the space." Source: [
 - Model completed: May 2018
 - Modeled in SketchUp
 
-![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theatre/blob/master/hub-theatre-1920.jpg)
-![Early 1900s photo](https://github.com/TimeWalkOrg/building-mill-valley-ca-hub-theatre/blob/master/hub-theatre-1920.jpg)
+![SketchUp model](https://github.com/TimeWalkOrg/building-mill-valley-ca-bank-of-mill-valley/blob/master/sketchup_image.JPG)
+![Early 1900s photo](https://github.com/TimeWalkOrg/building-mill-valley-ca-bank-of-mill-valley/blob/master/mvu1067.jpg)
 
 ### Online references:
 - [Mill Valley Historical Society](https://www.mvhistory.org/wp-content/uploads/2012/08/plugin-hist-walk-guidebook-2007.pdf)
-- [Mill Valley Public Library](http://millvalley.pastperfectonline.com/photo/38A07C79-990B-4F57-85A6-153356783539)
+- [Mill Valley Public Library - "Bank of Mill Valley"](http://millvalley.pastperfectonline.com/photo/38A07C79-990B-4F57-85A6-153356783539)
