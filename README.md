@@ -1,4 +1,4 @@
-# The Bank of Mill Valley
+# Bank of Mill Valley
 60 Thockmorton Ave., Mill Valley, CA 94941
 
 ## Building History
